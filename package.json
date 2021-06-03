@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zero",
-  "license": "CC-Zero",
+  "author": "MIT",
+  "license": "MIT-License"
   "keywords": [
     "discord",
     "giveaways",
