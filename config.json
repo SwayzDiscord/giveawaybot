@@ -1,0 +1,6 @@
+{
+  "token": "Your Token", 
+  "prefix": "g!",
+  "everyoneMention": true,
+  "hostedBy": true
+}
