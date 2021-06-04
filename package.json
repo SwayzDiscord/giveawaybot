@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "author": "MIT",
-  "license": "MIT-License"
+  "license": "MIT-License",
   "keywords": [
     "discord",
     "giveaways",
